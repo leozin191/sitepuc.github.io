@@ -1,0 +1,24 @@
+@media (max-width: 970px) {
+  .lancamentos {
+    display: block;
+  }
+}
+.button-assistir {
+  margin-left: 200px;
+}
+.cardjs {
+  text-align: center;
+}
+.button-Pesquisa {
+  background-color: lightblue;
+  color: black;
+  border-color: lightblue;
+}
+.button-Pesquisa:hover {
+  background-color: white;
+  color: lightblue;
+  border-color: lightblue;
+}
+.button-Pesquisa {
+  margin-left: 5px;
+}
